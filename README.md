@@ -1,26 +1,19 @@
-- 👋 Hi, I’m @Muuminuu
-- 👀 I’m interested in VideoGames, Hiking, Stargazing and whatever is Fun !
-- 🌱 I’m currently learning Symfony, VueJs, a bit of C# and some UnrealEngine.
-- 💞️ I’m looking to collaborate on anything code related.
 <!---
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 Muuminuu/Muuminuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Cédric Frachisse</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h1 align="center">Hi 👋, I'm Cédric Frachisse | @Muuminuu </h1>
+<h3 align="center">An enthusiastic webdeveloper student from France, eager to learn and keen to make my own games someday</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muuminuu&label=Profile%20views&color=0e75b6&style=flat" alt="muuminuu" /> </p>
 
-- 🔭 I’m currently working on **a personnal tool/website gathering my ideas about a game that I'd like to work on in the future**
+- 🔭 I’m currently working on **a personal tool/website to help me gather my ideas about a game I'd like to work on in the future**
 
-- 🌱 I’m currently learning **VueJs, Symfony, Ruby**
+- 🌱 I’m currently learning **VueJs, Symfony and a bit of C#**
 
 - 👯 I’m looking to collaborate on **VueJs, Symfony**
+
+- 👀 I’m interested in **VideoGames, Hiking, Stargazing and whatever is Fun !**
 
 - 📫 How to reach me **cedricfrachisse.dev@gmail.com**
 
