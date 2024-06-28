@@ -15,8 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in **VideoGames, Hiking, Stargazing and whatever is Fun !**
 
-- 📫 How to reach me **cedricfrachisse.dev@gmail.com**
-- <a href="mailto:cedricfrachisse.dev@gmail.com">Send email</a>
+- 📫 How to reach me **<a href="mailto:cedricfrachisse.dev@gmail.com">Here's my email</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
