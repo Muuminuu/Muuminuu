@@ -2,10 +2,10 @@
 Muuminuu/Muuminuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Cédric Frachisse | @Muuminuu </h1>
-<h3 align="center">An enthusiastic webdeveloper student from France, eager to learn and keen to make my own games someday</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muuminuu&label=Profile%20views&color=0e75b6&style=flat" alt="muuminuu" /> </p>
+<h1 align="center">Hi 👋, I'm Cédric Frachisse | @Muuminuu </h1>
+<h3 align="center">An enthusiastic webdeveloper student from France, eager to learn and keen to make my own games someday</h3>
 
 - 🔭 I’m currently working on **a personal tool/website to help me gather my ideas about a game I'd like to work on in the future**
 
@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in **VideoGames, Hiking, Stargazing and whatever is Fun !**
 
 - 📫 How to reach me **cedricfrachisse.dev@gmail.com**
+- <a href="mailto:cedricfrachisse.dev@gmail.com">Send email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
